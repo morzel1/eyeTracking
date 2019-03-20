@@ -1,0 +1,1 @@
+cmd prompt -> cd to this folder -> type "python testmain.py"
